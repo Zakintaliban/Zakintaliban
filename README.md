@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently working on MERN stack
 ### 🌱 I’m currently learning JS and Python
-### 😄 Pronouns: zakin
+### 😄 Pronouns: Hasbi || Zakin
 ### 💬 Ask me about anything on twitter
 ### 📫 How to reach me: email or twitter down here 👇
 <!--- 👯 I’m looking to collaborate on -->
