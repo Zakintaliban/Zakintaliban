@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/zakintaliban" target="blank"><img src="https://img.shields.io/twitter/follow/zakintaliban?logo=twitter&style=for-the-badge" alt="zakintaliban" /></a> </p>
 
-- 🌱 I’m currently learning **js, python & c++ in deeper**
+- 🌱 I’m currently learning **js, python, c++ & java in deeper**
 
 - 📝 I regularly write articles on [gongbuhada.com](gongbuhada.com)
 
