@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **js, python, c++ & java in deeper**
 
-- 📝 I regularly write articles on [gongbuhada.com](gongbuhada.com)
+- 📝 I regularly write articles on [https://gongbuhada.com](https://gongbuhada.com)
 
 - 💬 Ask me about **anything**
 
