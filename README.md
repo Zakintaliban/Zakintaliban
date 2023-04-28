@@ -28,7 +28,7 @@
 <img src="https://rm.up.railway.app/" width="512px"/> -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zakintaliban&icon=2&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakintaliban&label=Profile%20views&color=0e75b6&style=flat" alt="zakintaliban" /> </p>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zakintaliban) 
